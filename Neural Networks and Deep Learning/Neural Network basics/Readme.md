@@ -1,4 +1,4 @@
-This is the second week "Neural Network Basics" course for the second part of the neural network and deep learning(www.deeplearning.ai).
+This is the second week "Neural Network Basics" (1-2)course for the second part of the neural network and deep learning(www.deeplearning.ai).
 Package:
 - numpy is the fundamental package for scientific computing with Python. 
 - h5py is a common package to interact with a dataset that is stored on an H5 file. 
